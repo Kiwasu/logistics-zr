@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1f271154-3422-42d6-b37c-c3d56c2b4592" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/css/style.css" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:/aprogram/Maven/apache-maven-3.3.9-bin/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="C:\aprogram\Maven\apache-maven-3.3.9-bin\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2H1is2Z5snZ1UTXkGZ7GkWYZd6W" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/resources" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\MSB\MyCode\LogisticSystem\logistics-parent\logistics-manager\logistics-manager-web\src\main\webapp\WEB-INF" />
+      <recent name="D:\MSB\MyCode\LogisticSystem\logistics-parent\logistics-manager\logistics-manager-dao\src\main\resources\" />
+      <recent name="D:\MSB\MyCode\LogisticSystem\logistics-parent\logistics-manager\logistics-manager-dao\src\main\resources\com.zr\mapper" />
+      <recent name="D:\MSB\MyCode\LogisticSystem\logistics-parent\logistics-manager\logistics-manager-dao\src\main\resources\com.zr.mapper" />
+      <recent name="D:\MSB\MyCode\LogisticSystem\logistics-parent\logistics-manager\logistics-manager-generator\src\lib" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.zr.service" />
+      <recent name="com.zr.realm" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\MSB\MyCode\LogisticSystem\logistics-parent\logistics-manager\logistics-manager-web\src\main\resources" />
+      <recent name="D:\MSB\MyCode\LogisticSystem\logistics-parent\logistics-manager\logistics-manager-web\src\main\webapp\WEB-INF" />
+      <recent name="D:\MSB\MyCode\LogisticSystem\logistics-parent\logistics-manager\logistics-manager-web\src\main\webapp" />
+      <recent name="D:\MSB\MyCode\LogisticSystem\logistics-parent\logistics-manager\logistics-manager-dao\src\main\java\com\zr\mapper" />
+      <recent name="D:\MSB\MyCode\LogisticSystem\logistics-parent\logistics-manager\logistics-manager-pojo\src\main\java\com\zr\pojo" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1f271154-3422-42d6-b37c-c3d56c2b4592" name="Default Changelist" comment="" />
+      <created>1667459193633</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667459193633</updated>
+      <workItem from="1667459194764" duration="2217000" />
+      <workItem from="1667461443999" duration="3897000" />
+      <workItem from="1667465719529" duration="4696000" />
+      <workItem from="1667523987053" duration="4944000" />
+      <workItem from="1667528986069" duration="14784000" />
+      <workItem from="1667724040623" duration="899000" />
+      <workItem from="1667782473148" duration="8018000" />
+      <workItem from="1667810895497" duration="1429000" />
+      <workItem from="1667812558304" duration="2889000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
